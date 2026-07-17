@@ -53,18 +53,6 @@ Click the image below to watch the demo on YouTube.
 
 [![Watch Demo](https://img.youtube.com/vi/7944lCqnluk/0.jpg)](https://youtu.be/7944lCqnluk?si=H8k8gfMdHc7z8BbF)
 
-## 📂 Project Structure
-
-```
-opencv-face-eye-smile-detection/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-├── result.png
-└── demo.mp4
-```
-
 ---
 
 ## 👩‍💻 Author
