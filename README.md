@@ -49,7 +49,7 @@ python main.py
 
 ## 📷 Screenshot
 
-(result.png)
+(result..png)
 
 ---
 
