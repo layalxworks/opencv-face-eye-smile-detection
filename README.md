@@ -49,7 +49,7 @@ python main.py
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](result..png)]([https://youtu.be/PUT_YOUR_VIDEO_LINK_HERE](https://youtu.be/7944lCqnluk?si=H8k8gfMdHc7z8BbF)
+[![Watch the Demo](result..png)]([https://youtu.be/PUT_YOUR_VIDEO_LINK_HERE](https://youtu.be/7944lCqnluk?si=H8k8gfMdHc7z8BbF])
 ---
 
 ## 📂 Project Structure
