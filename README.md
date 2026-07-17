@@ -49,8 +49,9 @@ python main.py
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](result..png)]([https://youtu.be/PUT_YOUR_VIDEO_LINK_HERE](https://youtu.be/7944lCqnluk?si=H8k8gfMdHc7z8BbF])]
----
+Click the image below to watch the demo on YouTube.
+
+[![Watch Demo](https://img.youtube.com/vi/7944lCqnluk/0.jpg)](https://youtu.be/7944lCqnluk?si=H8k8gfMdHc7z8BbF)
 
 ## 📂 Project Structure
 
