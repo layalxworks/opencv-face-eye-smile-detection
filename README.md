@@ -49,7 +49,7 @@ python main.py
 
 ## 📷 Screenshot
 
-![Project Result](result.png)
+(result.png)
 
 ---
 
@@ -57,7 +57,7 @@ python main.py
 
 The project demonstration is available in this repository.
 
-**Video:** `demo.mp4`
+ `demo.mp4`
 
 ---
 
