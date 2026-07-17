@@ -47,16 +47,9 @@ python main.py
 
 ---
 
-## 📷 Screenshot
-
-![Screenshot](result..png)
----
-
 ## 🎥 Demo Video
 
-The project demonstration is available in this repository.
-
-[🎥 Watch Demo Video](demo.mp4)
+[![Watch the Demo](result..png)](https://youtu.be/PUT_YOUR_VIDEO_LINK_HERE)
 ---
 
 ## 📂 Project Structure
