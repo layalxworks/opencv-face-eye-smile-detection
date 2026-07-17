@@ -2,19 +2,22 @@
 
 ## 📌 Overview
 
-This project demonstrates a real-time computer vision application using OpenCV and Haar Cascade classifiers.
-
-The application detects:
-
-- 👤 Face
-- 👀 Eyes
-- 😊 Smile
-
-using a webcam in real time.
+This project is a real-time computer vision application developed using **Python** and **OpenCV**. It detects faces, eyes, and smiles from a webcam using Haar Cascade Classifiers.
 
 ---
 
-## 🛠 Technologies
+## ✨ Features
+
+- 👤 Real-time Face Detection
+- 👀 Eye Detection
+- 😊 Smile Detection
+- 🎥 Live Webcam Processing
+- 📊 Face Counter Display
+- ⚡ Fast and Lightweight using OpenCV
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - OpenCV
@@ -22,32 +25,21 @@ using a webcam in real time.
 
 ---
 
-## 📂 Features
-
-- Real-time webcam detection
-- Face detection
-- Eye detection
-- Smile detection
-- Bounding boxes with different colors
-- Face counter displayed on the screen
-
----
-
-## ▶️ How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/opencv-face-eye-smile-detection.git
+git clone https://github.com/layalxworks/opencv-face-eye-smile-detection.git
 ```
 
-2. Install requirements
+2. Install the required packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run
+3. Run the project
 
 ```bash
 python main.py
@@ -55,16 +47,36 @@ python main.py
 
 ---
 
-## 📷 Output
+## 📷 Screenshot
 
-Blue Rectangle → Face
+![Project Result](result.png)
 
-Green Rectangle → Eyes
+---
 
-Yellow Rectangle → Smile
+## 🎥 Demo Video
+
+The project demonstration is available in this repository.
+
+**Video:** `demo.mp4`
+
+---
+
+## 📂 Project Structure
+
+```
+opencv-face-eye-smile-detection/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+├── result.png
+└── demo.mp4
+```
 
 ---
 
 ## 👩‍💻 Author
 
-Layal Talal
+**Layal Aljohani**
+
+AI Student | Computer Vision Enthusiast
