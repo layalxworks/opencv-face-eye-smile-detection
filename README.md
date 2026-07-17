@@ -49,16 +49,14 @@ python main.py
 
 ## 📷 Screenshot
 
-(result..png)
-
+![Screenshot](result..png)
 ---
 
 ## 🎥 Demo Video
 
 The project demonstration is available in this repository.
 
- `demo.mp4`
-
+[🎥 Watch Demo Video](demo.mp4)
 ---
 
 ## 📂 Project Structure
